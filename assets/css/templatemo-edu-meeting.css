@@ -821,6 +821,12 @@ banner
 }
 
 @media screen and (max-width: 767px) {
+  .main-banner {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+    margin-bottom: 0px;
+  }
   .main-banner .caption h6 {
     font-weight: 500;
   }
@@ -1886,4 +1892,34 @@ responsive
 .item {
   background: #000;
   height: 25rem;
+}
+
+.founder {
+  display: flex;
+  justify-content: space-between;
+}
+
+@media (max-width: 767px) {
+  .background-image {
+    visibility: hidden;
+  }
+
+  .main-banner {
+    background-image: url(../../images/phone-landing.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 140px;
+    padding-bottom: 0px;
+  }
+
+  .founder {
+    display: block;
+  }
+
+  .founder .item {
+    height: 100%;
+    margin-bottom: 10px;
+  }
 }

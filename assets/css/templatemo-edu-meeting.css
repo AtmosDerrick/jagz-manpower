@@ -1908,13 +1908,12 @@ responsive
   }
 
   .main-banner {
-    background-image: url(../../images/phone-landing.jpg);
+    background-image: url("../../images/phone-landing.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 140px;
     padding-bottom: 0px;
-    background-attachment: fixed;
   }
 
   .founder {

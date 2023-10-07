@@ -959,7 +959,6 @@ upcoming meetings
 section.upcoming-meetings {
   background-image: url("../images/meetings-bg.jpg");
   background-position: center center;
-  background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 230px;
@@ -1092,7 +1091,6 @@ apply now
 section.apply-now {
   background-image: url("../images/apply-bg.jpg");
   background-position: center center;
-  background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
   padding: 140px 0px;
@@ -1175,7 +1173,6 @@ courses
 section.our-courses {
   background-image: url("../images/meetings-bg.jpg");
   background-position: center center;
-  background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 140px;
@@ -1322,7 +1319,6 @@ our facts
 section.our-facts {
   background-image: url("../images/facts-bg.jpg");
   background-position: center center;
-  background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
   padding: 140px 0px 125px 0px;
@@ -1391,7 +1387,6 @@ contact us
 section.contact-us {
   background-image: url("../images/meetings-bg.jpg");
   background-position: center center;
-  background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
   padding: 140px 0px 0px 0px;
@@ -1555,7 +1550,6 @@ upcoming meetings page
 section.meetings-page {
   background-image: url("../images/meetings-page-bg.jpg");
   background-position: center center;
-  background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 140px;
